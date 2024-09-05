@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343442679256",
+    "project_id": "increment-74553",
+    "storage_bucket": "increment-74553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343442679256:android:21f128c16c1d766d3afead",
+        "android_client_info": {
+          "package_name": "com.example.manoj_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQO9wTnE2DLNEOeT8CC31V8jgyRY3cJZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
